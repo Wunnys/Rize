@@ -1,0 +1,2 @@
+# Rize
+ A wordpress theme
